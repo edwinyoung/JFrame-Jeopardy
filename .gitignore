@@ -4,3 +4,14 @@
 *.jar
 *.war
 *.ear
+
+# Eclipse Files #
+.classpath
+.project
+.settings/
+.settings/*
+
+# Directory Files #
+*.swp
+*.tmp
+.DS_Store
